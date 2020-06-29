@@ -4,3 +4,4 @@ function doSomething() {
     }
     console.log('Finally: ' + i);
 }
+doSomething();
