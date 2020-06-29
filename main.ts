@@ -7,3 +7,5 @@ var nom = 'Mutombo';
 var postnom = 'Lukusa';
 var prenom = 'Lens';
 var numeroPhone = '+243977551835';
+
+getIdentite(nom, postnom, prenom, numeroPhone);
