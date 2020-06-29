@@ -6,3 +6,9 @@ var postnom = 'Lukusa';
 var prenom = 'Lens';
 var numeroPhone = '+243977551835';
 getIdentite(nom, postnom, prenom, numeroPhone);
+function doSomething() {
+    for (var i = 0; i < 5; i++) {
+        console.log(i);
+    }
+    console.log("Finally: " + i);
+}
