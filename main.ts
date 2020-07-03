@@ -16,7 +16,7 @@ function doSomething(){
 }
 
 function testSomething(){
-    let message : string;
+    let message;
     message = "Mutombo";
     let testContenu = message.endsWith('mbo');
 

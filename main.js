@@ -11,5 +11,12 @@ function doSomething() {
     }
     console.log("Finally: " + i);
 }
+function testSomething() {
+    var message;
+    message = "Mutombo";
+    var testContenu = message.endsWith('mbo');
+    console.log(testContenu);
+}
 getIdentite(nom, postnom, prenom, numeroPhone);
 doSomething();
+testSomething();
