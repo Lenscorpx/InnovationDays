@@ -27,5 +27,7 @@ getIdentite(nom, postnom, prenom, numeroPhone);
 
 doSomething();
 
+testSomething();
+
 
 
